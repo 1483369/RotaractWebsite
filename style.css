@@ -258,7 +258,10 @@ color: #d34836;
 }
 
 footer {
-  background-color: #343a40;
+  background-color: #fdab1c;
+  background-color: #772819;
+  /*background:linear-gradient(rgba(253,171,28), rgba(119, 40, 25));*/
+  background-color:#343a40 ;
   color: white;
   
 }
